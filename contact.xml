@@ -5,54 +5,67 @@
 	<group display_name="Альфа Инструментс" ring="" />
 	<group display_name="Бухгалтерия и сопровождение" ring="" />
 	<group display_name="ГК Научное Оборудование" ring="" />
-	<group display_name="Научное оборудование" ring="" />
 	<group display_name="Blacklist" ring="" />
 </root_group>
 <root_contact>
-	<contact display_name="Ансимова Наталья" office_number="21" mobile_number="8-913-951-00-71" other_number="" line="0" ring="" group_id_name="Научное оборудование" />
-	<contact display_name="Аширова Мария Сергеевна" office_number="103" mobile_number="8-913-933-32-75" other_number="" line="0" ring="" group_id_name="Бухгалтерия и сопровождение" />
-	<contact display_name="Безгачев Артем Викторович" office_number="" mobile_number="8-905-957-17-49" other_number="" line="0" ring="" group_id_name="All Contacts" />
-	<contact display_name="Волков Дмитрий Юрьевич" office_number="" mobile_number="8-983-122-10-01" other_number="" line="0" ring="" group_id_name="Альфа Инструментс" />
-	<contact display_name="Володин Дмитрий Алексеевич" office_number="66" mobile_number="8-913-937-70-73" other_number="" line="0" ring="" group_id_name="Научное оборудование" />
-	<contact display_name="Высоцкая Александра" office_number="11" mobile_number="8-913-705-44-14" other_number="" line="0" ring="" group_id_name="Научное оборудование" />
-	<contact display_name="Галухин Валерий Петрович" office_number="" mobile_number="8-983-321-69-69" other_number="" line="0" ring="" group_id_name="Научное оборудование" />
-	<contact display_name="Гордеев Владимир" office_number="22" mobile_number="8-913-460-21-48" other_number="" line="0" ring="" group_id_name="Научное оборудование" />
-	<contact display_name="Гурьянов Константин" office_number="" mobile_number="8-913-930-20-13" other_number="" line="0" ring="" group_id_name="Научное оборудование" />
-	<contact display_name="Гусельникова Ольга" office_number="27" mobile_number="8-913-776-16-04" other_number="" line="0" ring="" group_id_name="Научное оборудование" />
-	<contact display_name="Денисенко Роман" office_number="20" mobile_number="8-923-14- 09-84" other_number="" line="0" ring="" group_id_name="Научное оборудование" />
-	<contact display_name="Добрецов Борис" office_number="32" mobile_number="8-913-011-14-96" other_number="" line="0" ring="" group_id_name="Научное оборудование" />
-	<contact display_name="Долженко Евгения" office_number="17" mobile_number="8-913-937-60-80" other_number="" line="0" ring="" group_id_name="Научное оборудование" />
-	<contact display_name="Ермакова Марина" office_number="60" mobile_number="8-923-113-50-00" other_number="" line="0" ring="" group_id_name="Научное оборудование" />
-	<contact display_name="Жаров Михаил" office_number="62" mobile_number="8-903-997-50-73" other_number="" line="0" ring="" group_id_name="Научное оборудование" />
-	<contact display_name="Жилина Виктория Валерьевна" office_number="106" mobile_number="8-913-892-00-00" other_number="" line="0" ring="" group_id_name="Бухгалтерия и сопровождение" />
-	<contact display_name="Ильин Александр" office_number="18" mobile_number="8-923-225-32-08" other_number="" line="0" ring="" group_id_name="Научное оборудование" />
-	<contact display_name="Карамышев Сергей" office_number="16" mobile_number="8-913-372-98-65" other_number="" line="0" ring="" group_id_name="Научное оборудование" />
-	<contact display_name="Кремер Илья" office_number="15" mobile_number="8-913-000-99-43" other_number="" line="0" ring="" group_id_name="Научное оборудование" />
-	<contact display_name="Кремер Мария" office_number="19" mobile_number="8-913-483-07-77" other_number="" line="0" ring="" group_id_name="Научное оборудование" />
-	<contact display_name="Кузнецова Мария" office_number="28" mobile_number="8-913-487-94-57" other_number="" line="0" ring="" group_id_name="Научное оборудование" />
-	<contact display_name="Ладыгина Татьяна" office_number="41" mobile_number="8-908-022-46-24 " other_number="" line="0" ring="" group_id_name="Научное оборудование" />
-	<contact display_name="Макаров Александр Александрович" office_number="101" mobile_number="8-913-706-33-91" other_number="" line="0" ring="" group_id_name="АКТАКОМ Сибирь" />
-	<contact display_name="Маслюков Алексей" office_number="29" mobile_number="8-961-845-41-85" other_number="" line="0" ring="" group_id_name="Научное оборудование" />
-	<contact display_name="Медведева Анна" office_number="26" mobile_number="8-913-758-11-11" other_number="" line="0" ring="" group_id_name="Научное оборудование" />
-	<contact display_name="Митьков Александр Сергеевич" office_number="104" mobile_number="8-923-256-25-77" other_number="" line="0" ring="" group_id_name="Альфа Инструментс" />
-	<contact display_name="Пилагеина Екатерина Андреевна" office_number="109" mobile_number="8-923-133-95-14" other_number="" line="0" ring="" group_id_name="Альфа Инструментс" />
-	<contact display_name="Рогозин Андрей" office_number="24" mobile_number="8-913-914-34-42" other_number="" line="0" ring="" group_id_name="Научное оборудование" />
-	<contact display_name="Самуйлова Мария Олеговна" office_number="110" mobile_number="8-913-470-90-11" other_number="" line="0" ring="" group_id_name="АКТАКОМ Сибирь" />
-	<contact display_name="Селезнева Юлия" office_number="23" mobile_number="8-913-955-00-03" other_number="" line="0" ring="" group_id_name="Научное оборудование" />
-	<contact display_name="Серещенко Екатерина" office_number="25" mobile_number="8-923-128-72-00" other_number="" line="0" ring="" group_id_name="Научное оборудование" />
-	<contact display_name="Скоропупов Алексей" office_number="" mobile_number="8-905-922-75-10" other_number="" line="0" ring="" group_id_name="Бухгалтерия и сопровождение" />
-	<contact display_name="Столяренко Алексей Андреевич" office_number="102" mobile_number="8-913-950-06-02" other_number="" line="0" ring="" group_id_name="Альфа Инструментс" />
-	<contact display_name="Суртаева Софья" office_number="30" mobile_number="8-913-785-80-89" other_number="" line="0" ring="" group_id_name="Научное оборудование" />
-	<contact display_name="Фадеев Александр" office_number="33" mobile_number="8-913-206-11-88" other_number="" line="0" ring="" group_id_name="Научное оборудование" />
-	<contact display_name="Федоров Павел Леонидович" office_number="12" mobile_number="8-960-791-62-12" other_number="" line="0" ring="" group_id_name="Научное оборудование" />
-	<contact display_name="Федосова Инна" office_number="10" mobile_number="8-913-747-74-29" other_number="" line="0" ring="" group_id_name="Научное оборудование" />
-	<contact display_name="Хафизова Анастасия" office_number="70" mobile_number="8-913-798-62-69" other_number="" line="0" ring="" group_id_name="Научное оборудование" />
-	<contact display_name="Ходаков Михаил" office_number="14" mobile_number="8-913-485-45-08" other_number="" line="0" ring="" group_id_name="Научное оборудование" />
-	<contact display_name="Хомиченко Наталья" office_number="51" mobile_number="8-923-253-88-69 " other_number="" line="0" ring="" group_id_name="Научное оборудование" />
-	<contact display_name="Хохлов Денис Олегович" office_number="13" mobile_number="8-923-108-48-19" other_number="" line="0" ring="" group_id_name="Научное оборудование" />
-	<contact display_name="Шабалин Алексей Сергеевич" office_number="" mobile_number="8-913-742-22-38" other_number="" line="0" ring="" group_id_name="Альфа Инструментс" />
-	<contact display_name="Шашкова Юлия Сергеевна" office_number="108" mobile_number="8-913-375-13-48" other_number="" line="0" ring="Auto" group_id_name="Бухгалтерия и сопровождение" />
-	<contact display_name="Шестаков Александр" office_number="40" mobile_number="8-983-269-29-09" other_number="" line="0" ring="" group_id_name="Научное оборудование" />
-	<contact display_name="Шуверова Вера" office_number="" mobile_number="8-913-936-75-49" other_number="" line="0" ring="" group_id_name="Научное оборудование" />
-	<contact display_name="Щекочихина Ирина" office_number="31" mobile_number="8-913-768-02-07" other_number="" line="0" ring="" group_id_name="Научное оборудование" />
+	<contact display_name="Федоров Павел Леонидович " office_number="12" mobile_number="8-960-791-62-12" other_number="" line="0" ring="" group_id_name="ГК Научное Оборудование" />
+<contact display_name="Володин Дмитрий Алексеевич" office_number="66" mobile_number="8-913-937-70-73" other_number="" line="0" ring="" group_id_name="ГК Научное Оборудование" />
+<contact display_name="Высоцкая Александра" office_number="11" mobile_number="8-913-705-44-14" other_number="" line="0" ring="" group_id_name="ГК Научное Оборудование" />
+<contact display_name="Долженко Евгения" office_number="17" mobile_number="8-913-937-60-80" other_number="" line="0" ring="" group_id_name="ГК Научное Оборудование" />
+<contact display_name="Гусельникова Ольга " office_number="27" mobile_number="8-913-776-16-04" other_number="" line="0" ring="" group_id_name="ГК Научное Оборудование" />
+<contact display_name="Кузнецова Мария " office_number="28" mobile_number="8-913-487-94-57" other_number="" line="0" ring="" group_id_name="ГК Научное Оборудование" />
+<contact display_name="Медведева Анна " office_number="26" mobile_number="8-913-758-11-11" other_number="" line="0" ring="" group_id_name="ГК Научное Оборудование" />
+<contact display_name="Щекочихина Ирина " office_number="31" mobile_number="8-913-768-02-07" other_number="" line="0" ring="" group_id_name="ГК Научное Оборудование" />
+<contact display_name="Чибукова Наталья" office_number="10" mobile_number="8-953-802-20-94" other_number="" line="0" ring="" group_id_name="ГК Научное Оборудование" />
+<contact display_name="Суртаева Софья" office_number="30" mobile_number="8-913-785-80-89" other_number="" line="0" ring="" group_id_name="ГК Научное Оборудование" />
+<contact display_name="Серещенко Екатерина " office_number="25" mobile_number="8-923-128-72-00" other_number="" line="0" ring="" group_id_name="ГК Научное Оборудование" />
+<contact display_name="Селезнева Юлия" office_number="23" mobile_number="8-913-955-00-03" other_number="" line="0" ring="" group_id_name="ГК Научное Оборудование" />
+<contact display_name="Филимонов Петр" office_number="42" mobile_number="8-983-323-78-88" other_number="" line="0" ring="" group_id_name="ГК Научное Оборудование" />
+<contact display_name="Федосова Инна" office_number="16" mobile_number="8-913-747-74-29" other_number="" line="0" ring="" group_id_name="ГК Научное Оборудование" />
+<contact display_name="Ансимова Наталья " office_number="21" mobile_number="8-913-951-00-71" other_number="" line="0" ring="" group_id_name="ГК Научное Оборудование" />
+<contact display_name="Пашинова Анна" office_number="81" mobile_number="" other_number="" line="0" ring="" group_id_name="ГК Научное Оборудование" />
+<contact display_name="Кремер Мария " office_number="19" mobile_number="8-913-483-07-77" other_number="" line="0" ring="" group_id_name="ГК Научное Оборудование" />
+<contact display_name="Ибрагимова Анастасия" office_number="70" mobile_number="8-913-798-62-69" other_number="" line="0" ring="" group_id_name="ГК Научное Оборудование" />
+<contact display_name="Мамонтова Анастасия" office_number="70" mobile_number="8-923-706-55-59" other_number="" line="0" ring="" group_id_name="ГК Научное Оборудование" />
+<contact display_name="Галухин Валерий Петрович" office_number="" mobile_number="8-983-321-69-69" other_number="" line="0" ring="" group_id_name="ГК Научное Оборудование" />
+<contact display_name="Галухин Валерий Петрович" office_number="" mobile_number="8-913-936-74-47" other_number="" line="0" ring="" group_id_name="ГК Научное Оборудование" />
+<contact display_name="Голямова Марина" office_number="34" mobile_number="8-999-452-78-82" other_number="" line="0" ring="" group_id_name="ГК Научное Оборудование" />
+<contact display_name="Дударенко Анастасия" office_number="39" mobile_number="8-913-768-07-76" other_number="" line="0" ring="" group_id_name="ГК Научное Оборудование" />
+<contact display_name="Макаренко Александр" office_number="84" mobile_number="8-923-118-42-84" other_number="" line="0" ring="" group_id_name="ГК Научное Оборудование" />
+<contact display_name="Хомиченко Наталья" office_number="51" mobile_number="8-923-253-88-69 " other_number="" line="0" ring="" group_id_name="ГК Научное Оборудование" />
+<contact display_name="Панявин Глеб" office_number="52" mobile_number="8-913-902-50-30" other_number="" line="0" ring="" group_id_name="ГК Научное Оборудование" />
+<contact display_name="Шестаков Александр" office_number="40" mobile_number="8-983-269-29-09" other_number="" line="0" ring="" group_id_name="ГК Научное Оборудование" />
+<contact display_name="Ладыгина Татьяна " office_number="41" mobile_number="8-908-022-46-24 " other_number="" line="0" ring="" group_id_name="ГК Научное Оборудование" />
+<contact display_name="Васильев Павел" office_number="" mobile_number="8-921-971-36-34" other_number="" line="0" ring="" group_id_name="ГК Научное Оборудование" />
+<contact display_name="Фарходжон Ибрагимов" office_number="83" mobile_number="8-923-170-30-06" other_number="" line="0" ring="" group_id_name="ГК Научное Оборудование" />
+<contact display_name="Рогозин Андрей " office_number="24" mobile_number="8-913-914-34-42" other_number="" line="0" ring="" group_id_name="ГК Научное Оборудование" />
+<contact display_name="Гордеев Владимир " office_number="22" mobile_number="8-913-460-21-48" other_number="" line="0" ring="" group_id_name="ГК Научное Оборудование" />
+<contact display_name="Числов Бронислав" office_number="20" mobile_number="8-923-733-38-78" other_number="" line="0" ring="" group_id_name="ГК Научное Оборудование" />
+<contact display_name="Хохлов Денис Олегович" office_number="13" mobile_number="8-923-108-48-19" other_number="" line="0" ring="" group_id_name="ГК Научное Оборудование" />
+<contact display_name="Маслюков Алексей" office_number="29" mobile_number="8-961-845-41-85" other_number="" line="0" ring="" group_id_name="ГК Научное Оборудование" />
+<contact display_name="Ходаков Михаил" office_number="14" mobile_number="8-913-485-45-08" other_number="" line="0" ring="" group_id_name="ГК Научное Оборудование" />
+<contact display_name="Вергунов Алексей" office_number="80" mobile_number="8-923-709-64-11" other_number="" line="0" ring="" group_id_name="ГК Научное Оборудование" />
+<contact display_name="Рукавишников Михаил" office_number="83" mobile_number="8-923-100-95-93" other_number="" line="0" ring="" group_id_name="ГК Научное Оборудование" />
+<contact display_name="Жаров Михаил" office_number="61" mobile_number="8-903-997-50-73" other_number="" line="0" ring="" group_id_name="ГК Научное Оборудование" />
+<contact display_name="Шуверова Вера " office_number="37" mobile_number="8-913-936-75-49" other_number="" line="0" ring="" group_id_name="ГК Научное Оборудование" />
+<contact display_name="Михаил Золотарев" office_number="35" mobile_number="8-952-926-66-80" other_number="" line="0" ring="" group_id_name="ГК Научное Оборудование" />
+<contact display_name="Баннов Павел" office_number="36" mobile_number="8-906-995-45-66" other_number="" line="0" ring="" group_id_name="ГК Научное Оборудование" />
+<contact display_name="Фадеев Александр" office_number="33" mobile_number="8-913-206-11-88" other_number="" line="0" ring="" group_id_name="ГК Научное Оборудование" />
+<contact display_name="Добрецов Борис " office_number="32" mobile_number="8-913-011-14-96" other_number="" line="0" ring="" group_id_name="ГК Научное Оборудование" />
+<contact display_name="Миллер Яна" office_number="38" mobile_number="8-913-775-07-81" other_number="" line="0" ring="" group_id_name="ГК Научное Оборудование" />
+<contact display_name="Ильин Александр" office_number="18" mobile_number="8-923-225-32-08" other_number="" line="0" ring="" group_id_name="ГК Научное Оборудование" />
+<contact display_name="Кремер Илья" office_number="15" mobile_number="8-913-000-99-43" other_number="" line="0" ring="" group_id_name="ГК Научное Оборудование" />
+<contact display_name="Арсентьев Сергей" office_number="82" mobile_number="8-913- 730-53-39" other_number="" line="0" ring="" group_id_name="ГК Научное Оборудование" />
+<contact display_name="Волков Дмитрий Юрьевич" office_number="105" mobile_number="8-983-122-10-01" other_number="" line="0" ring="" group_id_name="Альфа Инструментс" />
+<contact display_name="Столяренко Алексей Андреевич" office_number="102" mobile_number="8-913-950-06-02" other_number="" line="0" ring="" group_id_name="Альфа Инструментс" />
+<contact display_name="Митьков Александр Сергеевич" office_number="104" mobile_number="8-923-256-25-77" other_number="" line="0" ring="" group_id_name="Альфа Инструментс" />
+<contact display_name="Пилагеина Екатерина Андреевна" office_number="109" mobile_number="8-923-133-95-14" other_number="" line="0" ring="" group_id_name="Альфа Инструментс" />
+<contact display_name="Шабалин Алексей Сергеевич" office_number="" mobile_number="8-913-742-22-38" other_number="" line="0" ring="" group_id_name="Альфа Инструментс" />
+<contact display_name="Макаров Александр Александрович" office_number="101" mobile_number="8-913-706-33-91" other_number="" line="0" ring="" group_id_name="АКТАКОМ Сибирь" />
+<contact display_name="Самуйлова Мария Олеговна" office_number="110" mobile_number="8-913-4709011" other_number="" line="0" ring="" group_id_name="АКТАКОМ Сибирь" />
+<contact display_name="Аширова Мария Сергеевна" office_number="103" mobile_number="8-913-933-32-75" other_number="" line="0" ring="" group_id_name="Бухгалтерия и сопровождение" />
+<contact display_name="Жилина Виктория Валерьевна" office_number="106" mobile_number="8-913-892-00-00" other_number="" line="0" ring="" group_id_name="Бухгалтерия и сопровождение" />
+<contact display_name="Юзвик Денис" office_number="114" mobile_number="8-960-790-40-20" other_number="" line="0" ring="" group_id_name="Альфа Инструментс" />
+<contact display_name="Шашкова Юля" office_number="108" mobile_number="8-913-375-13-48" other_number="" line="0" ring="" group_id_name="Бухгалтерия и сопровождение" />
+<contact display_name="Васильев Евгений" office_number="116" mobile_number="" other_number="" line="0" ring="" group_id_name="АКТАКОМ Сибирь" />
 </root_contact>
