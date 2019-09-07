@@ -1,8 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
-<XXXIPPhoneDirectory clearlight="true">
-  <Title>Phonelist</Title>
-  <Prompt>Prompt</Prompt>
-  <DirectoryEntry>
-    <Name>Denis </Name>
-    <Telephone>102</Telephone>
-  </DirectoryEntry>
+<root_group>
+	<group display_name="All Contacts" ring="" />
+	<group display_name="1" ring="" />
+	<group display_name="Blacklist" ring="" />
+</root_group>
+<root_contact>
+	<contact display_name="йцу" office_number="114" mobile_number="8-960-790-40-20" other_number="" line="0" ring="" group_id_name="1" />
+</root_contact>
